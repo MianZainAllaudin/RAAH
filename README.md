@@ -68,7 +68,7 @@ If scripts are not defined, add them to package.json:
 
 Proprietary License
 
-Copyright (c) 2025 Zain Allaudin
+Copyright (c) 2026 Zain Allaudin
 
 All rights reserved.
 
